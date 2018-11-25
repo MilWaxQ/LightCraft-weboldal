@@ -1,0 +1,12 @@
+body {
+  font-size: 115%;
+ color: white;
+  margin-top: 10%;
+  padding: 0;
+  background-image: url("/website/Grey-website.png");
+  background-size:contain;
+  background-position: center;
+  font-family: sans-serif;
+  background-repeat: no-repeat;
+}
+
